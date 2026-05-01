@@ -179,7 +179,7 @@ Business Question: What share of international revenue does each country contrib
 - Filter: Exclude blank Customer IDs, Top N = 10  
 - Key Finding: Customer 14596 at £168K is highest. Top 2 combined exceed £300K.
 
-![Top 10 Customers]()
+![Top 10 Customers](https://github.com/BrindaJat/TATA-iQ-Online-Retail-Analytics/blob/main/PowerBI/3.Customer%20Revenue%20Concentration.png)
 
 **Page 4 — Global Demand by Country (CEO View)**  
 - Visual: Treemap — Country by Quantity, tooltip showing Revenue  
