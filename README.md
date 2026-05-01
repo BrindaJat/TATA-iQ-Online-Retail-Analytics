@@ -172,7 +172,7 @@ Business Question: What share of international revenue does each country contrib
 - Filters: Exclude UK, Top N = 10 by Revenue  
 - Key Finding: EIRE leads at £102K revenue and 54K units. European markets dominate.
 
-![Top 10 Countries]()
+![Top 10 Countries](https://github.com/BrindaJat/TATA-iQ-Online-Retail-Analytics/blob/main/PowerBI/2.Regional%20Revenue%20Performance.png)
 
 **Page 3 — Top 10 Customers by Revenue (CMO View)**  
 - Visual: Clustered Bar Chart — CustomerID vs Revenue (descending)  
