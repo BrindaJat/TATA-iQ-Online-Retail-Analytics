@@ -187,7 +187,7 @@ Business Question: What share of international revenue does each country contrib
 - Theme: Dark navy (low demand) to sky blue (high demand)  
 - Key Finding: Netherlands and EIRE are the largest boxes. European markets dominate international demand.
 
-![Global Demand]()
+![Global Demand](https://github.com/BrindaJat/TATA-iQ-Online-Retail-Analytics/blob/main/PowerBI/4.Global%20Product%20Demand%20Analysis.png)
 
 ### Theme
 
