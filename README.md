@@ -163,7 +163,7 @@ Business Question: What share of international revenue does each country contrib
 **Page 1 — Monthly Revenue Trend (CEO View)**  
 - Visual: Line Chart — Month Name vs Total Revenue  
 - Filter: Year = 2011 only  
-- Key Finding: Peak in November at £1,509,496. Strong Q4 pattern. December drop due to incomplete data.
+- Key Finding: Peak in September. December drop due to incomplete data.
 
 ![Monthly Revenue Trend](https://github.com/BrindaJat/TATA-iQ-Online-Retail-Analytics/blob/main/PowerBI/1.Revenue%20Seasonality%20Analysis.png)
 
