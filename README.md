@@ -165,21 +165,21 @@ Business Question: What share of international revenue does each country contrib
 - Filter: Year = 2011 only  
 - Key Finding: Peak in November at £1,509,496. Strong Q4 pattern. December drop due to incomplete data.
 
-![Monthly Revenue Trend](powerbi/screenshots/1_Monthly_Revenue_Trend.png)
+![Monthly Revenue Trend](https://github.com/BrindaJat/TATA-iQ-Online-Retail-Analytics/blob/main/PowerBI/1.Revenue%20Seasonality%20Analysis.png)
 
 **Page 2 — Top 10 Countries by Revenue and Quantity (CMO View)**  
 - Visual: Clustered Bar Chart — Country vs Revenue + Quantity  
 - Filters: Exclude UK, Top N = 10 by Revenue  
 - Key Finding: EIRE leads at £102K revenue and 54K units. European markets dominate.
 
-![Top 10 Countries](powerbi/screenshots/2_Top_10_Countries.png)
+![Top 10 Countries]()
 
 **Page 3 — Top 10 Customers by Revenue (CMO View)**  
 - Visual: Clustered Bar Chart — CustomerID vs Revenue (descending)  
 - Filter: Exclude blank Customer IDs, Top N = 10  
 - Key Finding: Customer 14596 at £168K is highest. Top 2 combined exceed £300K.
 
-![Top 10 Customers](powerbi/screenshots/3_Top_10_Customers.png)
+![Top 10 Customers]()
 
 **Page 4 — Global Demand by Country (CEO View)**  
 - Visual: Treemap — Country by Quantity, tooltip showing Revenue  
@@ -187,7 +187,7 @@ Business Question: What share of international revenue does each country contrib
 - Theme: Dark navy (low demand) to sky blue (high demand)  
 - Key Finding: Netherlands and EIRE are the largest boxes. European markets dominate international demand.
 
-![Global Demand](powerbi/screenshots/4_Global_Demand.png)
+![Global Demand]()
 
 ### Theme
 
