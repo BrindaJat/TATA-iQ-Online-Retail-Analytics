@@ -96,7 +96,7 @@ from online_retail_clean;
 
 
 
--- ANALYSIS QUERIES (10) — TO BE ADDED BELOW
+-- ANALYSIS QUERIES (10) 
 
 
 -- Query 1 — Revenue by Country (Excluding UK)
